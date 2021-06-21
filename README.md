@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @108403556
+- 👋 Hi, I’m Dan Huang
 - 👀 I’m interested in java, NLP
 - 🌱 I’m currently learning NLP, machine learning via python
 - 💞️ I’m looking to collaborate on TBD
